@@ -62,5 +62,7 @@ for outer_i, x_p in enumerate(x_pred):
 
 show(x[:, 0], y, x_2=x_pred, y_2=y_pred)
 
+print("We are done")
+
 
 
