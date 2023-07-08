@@ -65,4 +65,4 @@ show(x[:, 0], y, x_2=x_pred, y_2=y_pred)
 print("We are done")
 
 
-
+print("I think this should be the ending, yours is lame")
