@@ -66,3 +66,5 @@ print("We are done")
 
 
 print("I think this should be the ending, yours is lame")
+
+print("you both are lame")
